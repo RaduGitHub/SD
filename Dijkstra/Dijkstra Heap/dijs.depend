@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1540982410 source:c:\users\daniel\desktop\netrom\dijs\dijkstra.cpp
+	"graph.h"
+	"dijkstra.h"
+	"MinHeap.h"
+	<fstream>
+	<malloc.h>
+	<conio.h>
+
+1540985537 c:\users\daniel\desktop\netrom\dijs\graph.h
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<fstream>
+
+1540980782 c:\users\daniel\desktop\netrom\dijs\dijkstra.h
+	"graph.h"
+	"MinHeap.h"
+	<vector>
+
+1540980874 c:\users\daniel\desktop\netrom\dijs\minheap.h
+	"graph.h"
+
+1540985768 source:c:\users\daniel\desktop\netrom\dijs\graph.cpp
+	"graph.h"
+
+1540985688 source:c:\users\daniel\desktop\netrom\dijs\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"graph.h"
+	"dijkstra.h"
+	"MinHeap.h"
+	<vector>
+	<assert.h>
+
+1540980744 source:c:\users\daniel\desktop\netrom\dijs\minheap.cpp
+	<stdio.h>
+	"MinHeap.h"
+	"graph.h"
+
+1541154913 source:c:\users\radu\desktop\dijkstra_heap\dijkstra heap\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"graph.h"
+	"dijkstra.h"
+	"MinHeap.h"
+	<vector>
+	<assert.h>
+
+1541360090 c:\users\radu\desktop\dijkstra_heap\dijkstra heap\graph.h
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<fstream>
+
+1540919748 c:\users\radu\desktop\dijkstra_heap\dijkstra heap\dijkstra.h
+	"graph.h"
+	"MinHeap.h"
+	<vector>
+
+1541154912 c:\users\radu\desktop\dijkstra_heap\dijkstra heap\minheap.h
+	"graph.h"
+
+1541154912 source:c:\users\radu\desktop\dijkstra_heap\dijkstra heap\dijkstra.cpp
+	"graph.h"
+	"dijkstra.h"
+	"MinHeap.h"
+	<fstream>
+	<malloc.h>
+	<conio.h>
+
+1541154913 source:c:\users\radu\desktop\dijkstra_heap\dijkstra heap\graph.cpp
+	"graph.h"
+
+1540919766 source:c:\users\radu\desktop\dijkstra_heap\dijkstra heap\minheap.cpp
+	<stdio.h>
+	"MinHeap.h"
+	"graph.h"
+
