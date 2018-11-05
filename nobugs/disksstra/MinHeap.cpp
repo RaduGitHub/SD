@@ -8,7 +8,6 @@ void Init(MinHeap *mh) {
    mh->heap[0].distance = -N;
    mh->heap[0].destinationVertex  = -1;
 }
-
 void Insert(MinHeap *mh,MinHeapNode element) {
 
 	mh->heapSize++;
@@ -21,7 +20,6 @@ void Insert(MinHeap *mh,MinHeapNode element) {
    }
 	 mh-> heap[current] = element;
 }
-
 MinHeapNode DeleteMin(MinHeap *mh) {
 
 	MinHeapNode minElement,lastElement;

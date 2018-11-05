@@ -1,0 +1,42 @@
+# depslib dependency file v1.0
+1541445593 source:c:\users\radu\desktop\asd\disksstra\dijkstra.cpp
+	"graph.h"
+	"dijkstra.h"
+	"MinHeap.h"
+	<fstream>
+	<malloc.h>
+	<conio.h>
+
+1541429764 c:\users\radu\desktop\asd\disksstra\graph.h
+	<stdlib.h>
+	<time.h>
+	<vector>
+	<fstream>
+
+1541429755 c:\users\radu\desktop\asd\disksstra\dijkstra.h
+	"graph.h"
+	"MinHeap.h"
+	<vector>
+
+1541429781 c:\users\radu\desktop\asd\disksstra\minheap.h
+	"graph.h"
+
+1541445632 source:c:\users\radu\desktop\asd\disksstra\graph.cpp
+	"graph.h"
+
+1541434369 source:c:\users\radu\desktop\asd\disksstra\main.cpp
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<conio.h>
+	"graph.h"
+	"dijkstra.h"
+	"MinHeap.h"
+	<vector>
+	<assert.h>
+
+1541445144 source:c:\users\radu\desktop\asd\disksstra\minheap.cpp
+	<stdio.h>
+	"MinHeap.h"
+	"graph.h"
+
