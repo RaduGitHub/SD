@@ -18,5 +18,8 @@
     <ClCompile Include="Vasya and books.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Margarite.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

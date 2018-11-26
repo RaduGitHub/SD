@@ -1,0 +1,8 @@
+﻿  Kruskall.cpp
+c:\users\radu\documents\github\sd\c_good_array\project2\project2\graph.h(19): warning C4091: 'typedef ': ignored on left of 'edge' when no variable is declared
+c:\users\radu\documents\github\sd\c_good_array\project2\project2\graph.h(26): warning C4091: 'typedef ': ignored on left of 'graph' when no variable is declared
+  Prim.cpp
+c:\users\radu\documents\github\sd\c_good_array\project2\project2\graph.h(19): warning C4091: 'typedef ': ignored on left of 'edge' when no variable is declared
+c:\users\radu\documents\github\sd\c_good_array\project2\project2\graph.h(26): warning C4091: 'typedef ': ignored on left of 'graph' when no variable is declared
+  Generating Code...
+  Project2.vcxproj -> C:\Users\Radu\Documents\GitHub\SD\c_good_array\Project2\Debug\Project2.exe
