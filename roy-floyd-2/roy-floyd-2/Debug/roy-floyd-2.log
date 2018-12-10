@@ -1,4 +1,5 @@
-﻿  roy_floyd.cpp
-  Source.cpp
-  Generating Code...
+﻿  Source.cpp
+c:\users\radu\documents\github\sd\roy-floyd-2\roy-floyd-2\source.cpp(15): warning C4101: 'source': unreferenced local variable
+c:\users\radu\documents\github\sd\roy-floyd-2\roy-floyd-2\source.cpp(15): warning C4101: 'destination': unreferenced local variable
+c:\users\radu\documents\github\sd\roy-floyd-2\roy-floyd-2\source.cpp(14): warning C4101: 'ch': unreferenced local variable
   roy-floyd-2.vcxproj -> C:\Users\Radu\Documents\GitHub\SD\roy-floyd-2\Debug\roy-floyd-2.exe

@@ -1,0 +1,6 @@
+﻿  B.cpp
+c:\users\radu\desktop\b trees\b trees\b.h(14): warning C4091: 'typedef ': ignored on left of 'NodeB' when no variable is declared
+  main.cpp
+c:\users\radu\desktop\b trees\b trees\b.h(14): warning C4091: 'typedef ': ignored on left of 'NodeB' when no variable is declared
+  Generating Code...
+  B trees.vcxproj -> C:\Users\Radu\Desktop\B trees\Debug\B trees.exe
